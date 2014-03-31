@@ -1,0 +1,4 @@
+{
+	"cmd": ["$file_path\\..\\runfromsublime.cmd"],
+	"working_dir": "$file_path\\..\\"
+}
